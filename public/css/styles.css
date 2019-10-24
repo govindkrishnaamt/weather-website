@@ -1,0 +1,49 @@
+
+.menu{
+    width: 1500px;
+    height: 20px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+
+header a{
+    color:black;
+    margin-right: 15px;
+    font-size: 20px;
+    text-decoration: none
+}
+body{
+    background-color: skyblue;
+    color: #333333;
+    font-family: Arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+footer{
+    color: #0e0202;
+    margin-top: 350px; 
+    padding: 16px 0; 
+    padding-top: 5px;
+}
+
+form{
+    margin-top: 70px
+}
+
+input{
+    border:1px solid rgb(192, 187, 187);
+    padding: 8px;
+    border-width: 2px
+}
+
+button{
+    cursor: pointer;
+    border: #333333;
+    background:#333333;
+    color: white;
+    padding: 8px 
+}
